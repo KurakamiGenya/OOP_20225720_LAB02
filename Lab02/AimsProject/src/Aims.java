@@ -23,7 +23,7 @@ public class Aims {
         System.out.println("\n--- Cart before removing a disc ---");
         anOrder.displayCart();
 
-        // Test removing an existing DVD (The Dark Knight)
+        // Test removing an existing DVD (Star Wars)
         System.out.println("\nTrying to remove 'Star Wars'...");
         anOrder.removeDigitalVideoDisc(dvd2);
 
